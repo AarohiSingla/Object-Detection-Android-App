@@ -21,7 +21,7 @@
 - Navigate to the directory where your project is located and select the project's root folder. 
 
 - Build and Run
-![b](https://github.com/AarohiSingla/Object-Detection-Android-App/assets/60029146/bca02a66-3421-42d9-a16f-80d5448c920f)
+SAD1K9IGLAXS_jpg.rf.d634b3e06bebf7dd7d15b3e699e359d2
 
 
 
