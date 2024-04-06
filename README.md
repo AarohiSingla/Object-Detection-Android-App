@@ -1,5 +1,7 @@
 # Object detection app using YOLOv8 and Android
 
+### Check the video to understand the code: https://youtu.be/dl7rCmvIyiI
+
 ## Step 1 (Train and export Object detection model):
 - git clone https://github.com/AarohiSingla/Object-Detection-Android-App.git
   
