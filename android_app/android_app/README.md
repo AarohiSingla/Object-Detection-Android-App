@@ -10,10 +10,4 @@ To use this repository for any custom YOLOv8 Object detection model, follow thes
 3. Rename paths of your model and labels file in Constants.kt file
 4. **Build and Run:**
 
-### Contributing
-Contributions are welcome! If you want to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-### Contact
-For any questions or feedback, feel free to contact [surendramaran8@gmail.com] or open an [issue](https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector/issues/new) in the repository.
-
----
