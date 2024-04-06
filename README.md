@@ -21,7 +21,8 @@
 - Navigate to the directory where your project is located and select the project's root folder. 
 
 - Build and Run
-SAD1K9IGLAXS_jpg.rf.d634b3e06bebf7dd7d15b3e699e359d2
+![SAD1K9IGLAXS_jpg rf d634b3e06bebf7dd7d15b3e699e359d2](https://github.com/AarohiSingla/Object-Detection-Android-App/assets/60029146/08610d96-54e5-4425-85f9-c92e14f87a14)
+
 
 
 
